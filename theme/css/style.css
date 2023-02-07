@@ -263,7 +263,7 @@ img {
 
 .bg-overlay:before {
   content: "";
-  opacity: 0.1;
+  opacity: 0.55;
   background-color: #212529;
 }
 
@@ -750,7 +750,7 @@ ul.dropdown-menu li {
 }
 
 #banner .overlay {
-  opacity: 1;
+  opacity: 0.1;
 }
 
 .banner-contact-form {
@@ -767,7 +767,7 @@ ul.dropdown-menu li {
 
 #banner-3 {
   position: relative;
-  background: url("../images/banner/banner.jpg") no-repeat;
+  background: url("../images/banner/ManifestBanner.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -949,7 +949,7 @@ h5.subtitle {
   width: 100%;
   height: 100%;
   background: rgba(0, 0, 0, 0.92);
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
 .overlay.feature-overlay {
